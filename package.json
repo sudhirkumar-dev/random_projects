@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.14.13",
     "file-saver": "^2.0.5",
     "form-persistence": "^2.0.6",
     "html2canvas": "^1.4.1",
